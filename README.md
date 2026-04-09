@@ -23,7 +23,12 @@ Infrastructure fundamentally supports people’s lives. Using Christchurch as a 
 The study also adopted a socio‑demographic and economic lens to examine how critical components vary across different ethnic groups and levels of deprivation, and the tension this creates between network ‘efficiency’ and ‘equity’. The findings showed that components most critical to the general population and low‑deprivation communities differ from those most critical to minority ethnic groups, including Māori and Pasifika communities, and high‑deprivation areas. This highlights the importance of explicitly considering equity and population diversity in investment decisions, particularly when planning climate adaptation measures, to achieve fairer outcomes.
 For this work, Isaac received the Graham Powell Engineering Prize for the project presentation.
 
-![image](/Images/demos_criticality.png) ![image](/Images/interconnected.png)
+
+<div align="center">
+  <img src="/Images/demos_criticality.png" alt="Socio-demographic criticality patterns" width="45%" />
+  <img src="/Images/interconnected.png" alt="Interdependent infrastructure networks" width="45%" />
+</div>
+
 
 ### Transport Redundancy Metrics: University of Canterbury
 
@@ -32,7 +37,12 @@ Isaac worked on a project funded by the World Bank that investigated how redunda
 As part of the project, Isaac implemented advanced algorithms capable of computing multiple forms of network redundancy across entire city‑scale road networks. The results indicated that conventional redundancy measures can overemphasise links that already have viable alternatives. This can divert investment away from more critical links and, in some cases, lead to maladaptive outcomes.
 
 The work from this project is ongoing, with a manuscript currently in preparation.
-![image](/Images/metrics_annotated.png) ![image](/Images/HCMC_flooding.png)
+
+<div align="center">
+  <img src="/Images/metrics_annotated.png" alt="Transport network redundancy metrics" width="45%" />
+  <img src="/Images/HCMC_flooding.png" alt="Flood impacts in Ho Chi Minh City" width="45%" />
+</div>
+
 
 ### Public Health: GeoHealth Lab, Geospatial Research Institite, University of Canterbury
 
@@ -41,4 +51,8 @@ The study identified increasing inequities by deprivation and ethnicity across t
 
 Isaac was first author on the resulting paper published in [Social Science and Medicine, a Tier 1 journal](https://doi.org/10.1016/j.socscimed.2024.116848). The research received significant media coverage, including the front page of The Press (Christchurch), and features on Stuff.co.nz and 1 News. The findings were presented to the New Zealand Ministry of Health and cited in policy briefings. The paper was presented the work at the Pacific Medical Conference in 2024, and won Best Poster Presentation at the Spatial Data Science Symposium. In recognition of this research, Isaac was named runner‑up for the Esri Young Scholar of the Year in 2025.
 
-![image](Images/1-s2.0-S0277953624002922-gr6.jpg)
+
+<div align="center">
+  <img src="/Images/1-s2.0-S0277953624002922-gr6.jpg" alt="ENDS retailer exposure and deprivation" width="70%" />
+</div>
+
